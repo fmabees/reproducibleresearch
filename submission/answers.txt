@@ -1,0 +1,1 @@
+1b) It is good to add some files and/or folders to the gitignore so it isn't tracked because there is no need nor is it good practice to keep track of the changes in data folder. Second, the data would take up a lot of memory from your github account.
